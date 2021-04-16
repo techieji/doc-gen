@@ -43,3 +43,13 @@ After that, drop into the shell and check out the docstring of ``function``:
    '<whatever you wrote>'
 
 Sweet, isn't it?
+
+-------------
+Documentation
+-------------
+
+Documentation is hosted on `readthedocs.io`_. The `complete quickstart`_ (of which the above is based on) is
+the definitive guide for using Doc-Gen
+
+.. _readthedocs.io: https://doc-gen.readthedocs.io/en/latest/
+.. _complete quickstart: https://doc-gen.readthedocs.io/en/latest/quickstart.html
